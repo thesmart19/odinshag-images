@@ -52,10 +52,23 @@ module.exports = function (grunt) {
                     dest: 'build/svg/'
                 }]
             }
+        },
+        grunticon: {
+            production: {
+                files: [{
+                    expand: true,
+                    cwd: 'source/icons',
+                    src: ['*.svg'],
+                    dest: "build/icons"
+                }],
+                options: {
+                }
+            }
         }
     });
     // Load the plugins
     grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-grunticon');
     // Task(s)
-    grunt.registerTask('default', ['imagemin']);
+    grunt.registerTask('default', ['grunticon', 'imagemin']);
 };

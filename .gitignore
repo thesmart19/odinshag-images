@@ -1,4 +1,5 @@
-# Папки #
+﻿# Папки #
+source/*
 build/*
 node_modules/*
 
