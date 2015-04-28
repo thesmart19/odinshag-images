@@ -1,0 +1,25 @@
+<svg width="19" height="16" xmlns="http://www.w3.org/2000/svg">
+<style>
+.search
+{
+	fill: #ffffff;
+	filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=1, Color='#777')";
+	filter: url(#drop-shadow);
+	-webkit-filter: drop-shadow(0px 1px 1px 0px #777);
+	filter: drop-shadow(0px 1px 1px 0px #777);
+}
+</style>
+
+<path class="search" d="m12.520903,8.909468l-0.122,0.215c1.268,-3.007 0.146999,-6.566999 -2.710001,-8.244999c-3.09,-1.811001 -7.039999,-0.735001 -8.822999,2.4c-1.782,3.136 -0.726,7.146 2.364,8.955c2.856999,1.677 6.455,0.875 8.391001,-1.739l-0.176001,0.306l5.461,3.198999l1.075998,-1.893999l-5.460999,-3.197001zm-2.079,0.013c-1.271,2.24 -4.098001,3.007999 -6.302,1.715c-2.207,-1.293001 -2.966,-4.157001 -1.688,-6.396c1.271999,-2.24 4.096,-3.007999 6.302999,-1.715c2.205,1.293 2.961,4.156 1.687,6.396z"/>
+
+<filter id="drop-shadow">
+	<feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
+	<feOffset dx="0" dy="1" result="offsetblur"/>
+	<feFlood flood-color="#777"/>
+	<feComposite in2="offsetblur" operator="in"/>
+	<feMerge>
+		<feMergeNode/>
+		<feMergeNode in="SourceGraphic"/>
+	</feMerge>
+</filter>
+</svg>
