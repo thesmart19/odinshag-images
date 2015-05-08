@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<svg width="369" height="339" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="341" width="371" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_207">
+   <rect stroke="null" id="svg_1" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="0.33081"/>
+   <rect stroke="null" id="svg_2" height="41.303261" width="5.298108" fill="#B1B097" y="296.945355" x="41.538513"/>
+   <rect stroke="null" id="svg_3" height="5.418238" width="367.436698" fill="#EAE9C9" y="291.47488" x="0.329013"/>
+   <rect stroke="null" id="svg_4" height="5.418238" width="350.401161" fill="#EAE9C9" y="168.384678" x="8.461284"/>
+   <rect stroke="null" id="svg_5" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="46.83662"/>
+   <rect stroke="null" id="svg_6" height="41.303261" width="5.298108" fill="#B1B097" y="296.945355" x="88.044323"/>
+   <rect stroke="null" id="svg_7" height="70.900028" width="80.530156" fill="#607179" y="220.574851" x="54.002005"/>
+   <rect stroke="null" id="svg_8" height="70.900028" width="33.353995" fill="#9CD7D9" y="220.574851" x="8.193504"/>
+   <rect stroke="null" id="svg_9" height="70.900028" width="34.076464" fill="#9CD7D9" y="220.574851" x="324.848883"/>
+   <rect stroke="null" id="svg_10" height="70.900028" width="34.076464" fill="#9CD7D9" y="220.574851" x="278.722279"/>
+   <rect stroke="null" id="svg_11" height="70.900028" width="33.355792" fill="#607179" y="220.574851" x="232.85447"/>
+   <rect stroke="null" id="svg_12" height="70.900028" width="12.411374" fill="#EAE9C9" y="220.574851" x="41.536716"/>
+   <rect stroke="null" id="svg_13" height="70.900028" width="12.409577" fill="#EAE9C9" y="220.574851" x="266.208465"/>
+   <rect stroke="null" id="svg_14" height="70.900028" width="12.411374" fill="#EAE9C9" y="220.574851" x="312.437509"/>
+   <rect stroke="null" id="svg_15" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="93.342431"/>
+   <g stroke="null" id="svg_16" opacity="0.29">
+    <g stroke="null" id="svg_17">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.559" y="122.35" x="93.455" id="SVGID_2_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_3_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_18" xlink:href="#SVGID_2_"/>
+     </clipPath>
+     <path stroke="null" id="svg_19" d="m8.193507,220.57663l0,41.523041l33.35399,-33.429886l0,-8.093155l-33.35399,0zm0,52.970154l33.35399,-33.429886l0,-7.12587l-33.35399,33.431702l0,7.124054z" fill="#FFFFFF" clip-path="url(#SVGID_3_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_20" opacity="0.29">
+    <g stroke="null" id="svg_21">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="30.919" width="19.513" y="107.616" x="243.433" id="SVGID_4_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_6_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_22" xlink:href="#SVGID_4_"/>
+     </clipPath>
+     <path stroke="null" id="svg_23" d="m277.732025,194.034821l0,43.657547l35.066742,-35.150116l0,-8.509232l-35.066742,0l0,0.001801zm0,55.69368l35.066742,-35.146515l0,-7.493317l-35.066742,35.150116l0,7.489716z" fill="#FFFFFF" clip-path="url(#SVGID_6_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_24" opacity="0.29">
+    <g stroke="null" id="svg_25">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="30.908" width="19.506" y="115.709" x="269.105" id="SVGID_8_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_9_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_26" xlink:href="#SVGID_8_"/>
+     </clipPath>
+     <path stroke="null" id="svg_27" d="m323.869446,208.610764l0,43.643112l35.055939,-35.135681l0,-8.509232l-35.055939,0l0,0.001801zm0,55.675674l35.055939,-35.135727l0,-7.4897l-35.055939,35.135712l0,7.489716z" fill="#FFFFFF" clip-path="url(#SVGID_9_)"/>
+    </g>
+   </g>
+   <rect stroke="null" id="svg_28" height="117.673764" width="41.207703" fill="#464355" y="220.574851" x="139.846444"/>
+   <rect stroke="null" id="svg_29" height="117.673764" width="41.207703" fill="#333333" y="220.574851" x="186.352254"/>
+   <path stroke="null" id="svg_30" d="m175.348068,285.444214c0,2.624451 -2.124283,4.75 -4.740967,4.75c-2.614914,0 -4.739212,-2.125549 -4.739212,-4.75c0,-2.62085 2.124298,-4.749969 4.739212,-4.749969c2.616684,0.001801 4.740967,2.12912 4.740967,4.749969" fill="#333333"/>
+   <rect stroke="null" id="svg_31" height="117.673764" width="5.298108" fill="#B1B097" y="220.574851" x="227.561754"/>
+   <rect stroke="null" id="svg_32" height="117.673764" width="5.298108" fill="#B1B097" y="220.574851" x="134.550133"/>
+   <rect stroke="null" id="svg_33" height="117.673764" width="5.314282" fill="#B1B097" y="220.574851" x="181.046958"/>
+   <rect stroke="null" id="svg_34" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="232.858064"/>
+   <rect stroke="null" id="svg_35" height="41.303261" width="5.29631" fill="#B1B097" y="296.945355" x="320.573375"/>
+   <rect stroke="null" id="svg_36" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="279.363875"/>
+   <rect stroke="null" id="svg_37" height="41.303261" width="41.207703" fill="#DCDDBB" y="296.945355" x="325.869685"/>
+   <rect stroke="null" id="svg_38" height="5.418238" width="351.709513" fill="#89877B" y="220.520813" x="8.193504"/>
+   <rect stroke="null" id="svg_39" height="5.418238" width="98.349266" fill="#B1B097" y="220.520813" x="134.550133"/>
+   <rect stroke="null" id="svg_40" height="5.418238" width="351.709513" fill="#33404C" y="215.104376" x="8.193504"/>
+   <rect stroke="null" id="svg_41" height="41.303261" width="5.298108" fill="#B1B097" y="296.945355" x="274.067564"/>
+   <g stroke="null" id="svg_42">
+    <g stroke="null" id="svg_43">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="36.41" width="1.478" y="125.301" x="112.009" id="SVGID_10_"/>
+     </defs>
+     <use stroke="null" transform="matrix(1.797187089920044,0,0,1.8012760902233822,-0.2622848367682096,-0.9960270503142876) " x="-88.749987" y="0.657728" id="svg_44" fill="#61737B" xlink:href="#SVGID_10_"/>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_11_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_45" xlink:href="#SVGID_10_"/>
+     </clipPath>
+     <rect stroke="null" id="svg_46" height="65.584462" width="2.65804" fill="#61737B" clip-path="url(#SVGID_11_)" y="225.890417" x="41.536716"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_47" opacity="0.5">
+    <g stroke="null" id="svg_48">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="36.41" width="1.477" y="125.301" x="117.438" id="SVGID_12_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_13_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_49" xlink:href="#SVGID_12_"/>
+     </clipPath>
+     <rect stroke="null" id="svg_50" height="65.584462" width="2.65804" fill="#CBCBAF" clip-path="url(#SVGID_13_)" y="225.890417" x="51.291847"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_51" opacity="0.5">
+    <g stroke="null" id="svg_52">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="36.41" width="1.477" y="125.301" x="242.45" id="SVGID_14_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_15_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_53" xlink:href="#SVGID_14_"/>
+     </clipPath>
+     <rect stroke="null" id="svg_54" height="65.584462" width="2.656243" fill="#CBCBAF" clip-path="url(#SVGID_15_)" y="225.890417" x="275.963597"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_55">
+    <g stroke="null" id="svg_56">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="36.41" width="1.478" y="125.301" x="236.867" id="SVGID_16_"/>
+     </defs>
+     <use stroke="null" transform="matrix(1.797187089920044,0,0,1.8012760902233822,-0.2622848367682096,-0.9960270503142876) " x="-88.749987" y="0.657728" id="svg_57" fill="#61737B" xlink:href="#SVGID_16_"/>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_17_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_58" xlink:href="#SVGID_16_"/>
+     </clipPath>
+     <rect stroke="null" id="svg_59" height="65.584462" width="2.656243" fill="#61737B" clip-path="url(#SVGID_17_)" y="225.890417" x="265.931698"/>
+    </g>
+   </g>
+   <rect stroke="null" id="svg_60" height="65.584462" width="2.656243" fill="#61737B" y="225.890417" x="312.437509"/>
+   <rect stroke="null" id="svg_61" height="65.584462" width="2.65804" fill="#CBCBAF" y="225.890417" x="322.19264"/>
+   <rect stroke="null" id="svg_62" height="65.584462" width="12.411374" fill="none" y="225.890417" x="312.437509"/>
+   <rect stroke="null" id="svg_63" height="65.584462" width="58.917184" fill="none" y="225.890417" x="265.931698"/>
+   <rect stroke="null" id="svg_64" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="96.489305"/>
+   <rect stroke="null" id="svg_65" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="49.983495"/>
+   <rect stroke="null" id="svg_66" height="70.900028" width="29.36424" fill="#9CD7D9" y="97.48465" x="8.216867"/>
+   <rect stroke="null" id="svg_67" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="189.502723"/>
+   <rect stroke="null" id="svg_68" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="142.996913"/>
+   <rect stroke="null" id="svg_69" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="282.521533"/>
+   <rect stroke="null" id="svg_70" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="236.015722"/>
+   <rect stroke="null" id="svg_71" height="70.900028" width="29.696719" fill="#9CD7D9" y="97.48465" x="329.01656"/>
+   <g stroke="null" id="svg_72" opacity="0.29">
+    <g stroke="null" id="svg_73">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="48.239" x="246.097" id="SVGID_18_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_19_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_74" xlink:href="#SVGID_18_"/>
+     </clipPath>
+     <path stroke="null" id="svg_75" d="m282.521545,87.080475l0,41.52301l33.354004,-33.429878l0,-8.093132l-33.354004,0zm0,52.971909l33.354004,-33.429848l0,-7.125854l-33.354004,33.429863l0,7.125839z" fill="#FFFFFF" clip-path="url(#SVGID_19_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_76" opacity="0.29">
+    <g stroke="null" id="svg_77">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.409" width="18.56" y="56.992" x="269.934" id="SVGID_20_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_21_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_78" xlink:href="#SVGID_20_"/>
+     </clipPath>
+     <path stroke="null" id="svg_79" d="m325.361084,102.848862l0,41.52298l33.353973,-33.429855l0,-8.093124l-33.353973,0zm0,52.971909l33.353973,-33.429863l0,-7.125862l-33.353973,33.429855l0,7.12587z" fill="#FFFFFF" clip-path="url(#SVGID_21_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_80" opacity="0.5">
+    <g stroke="null" id="svg_81">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="54.014" x="220.22" id="SVGID_22_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_23_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_82" xlink:href="#SVGID_22_"/>
+     </clipPath>
+     <path stroke="null" id="svg_83" d="m236.015701,97.484657l0,41.523003l33.353989,-33.429878l0,-8.093124l-33.353989,0zm0,52.971886l33.353989,-33.429848l0,-7.125839l-33.353989,33.429863l0,7.125824z" fill="#FFFFFF" clip-path="url(#SVGID_23_)"/>
+    </g>
+   </g>
+   <rect stroke="null" id="svg_84" height="70.900028" width="34.076464" fill="#9CD7D9" y="97.48465" x="236.015722"/>
+   <g stroke="null" id="svg_85" opacity="0.29">
+    <g stroke="null" id="svg_86">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="48.239" x="220.22" id="SVGID_24_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_25_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_87" xlink:href="#SVGID_24_"/>
+     </clipPath>
+     <path stroke="null" id="svg_88" d="m236.015701,87.080475l0,41.52301l33.353989,-33.429878l0,-8.093132l-33.353989,0zm0,52.971909l33.353989,-33.429848l0,-7.125854l-33.353989,33.429863l0,7.125839z" fill="#FFFFFF" clip-path="url(#SVGID_25_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_89" opacity="0.29">
+    <g stroke="null" id="svg_90">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="54.014" x="194.339" id="SVGID_26_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_27_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_91" xlink:href="#SVGID_26_"/>
+     </clipPath>
+     <path stroke="null" id="svg_92" d="m189.500916,97.484657l0,41.523003l33.355789,-33.429878l0,-8.093124l-33.355789,0zm0,52.971886l33.355789,-33.429848l0,-7.125839l-33.355789,33.429863l0,7.125824z" fill="#FFFFFF" clip-path="url(#SVGID_27_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_93" opacity="0.29">
+    <g stroke="null" id="svg_94">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="48.239" x="168.462" id="SVGID_28_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_29_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_95" xlink:href="#SVGID_28_"/>
+     </clipPath>
+     <path stroke="null" id="svg_96" d="m142.995117,87.080475l0,41.52301l33.355789,-33.429878l0,-8.093132l-33.355789,0zm0,52.971909l33.355789,-33.429848l0,-7.125854l-33.355789,33.429863l0,7.125839z" fill="#FFFFFF" clip-path="url(#SVGID_29_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_97" opacity="0.29">
+    <g stroke="null" id="svg_98">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.559" y="54.014" x="142.585" id="SVGID_30_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_31_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_99" xlink:href="#SVGID_30_"/>
+     </clipPath>
+     <path stroke="null" id="svg_100" d="m96.487511,97.484657l0,41.523003l33.355766,-33.429878l0,-8.093124l-33.355766,0zm0,52.971886l33.355766,-33.429848l0,-7.125839l-33.355766,33.429863l0,7.125824z" fill="#FFFFFF" clip-path="url(#SVGID_31_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_101" opacity="0.29">
+    <g stroke="null" id="svg_102">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.56" y="52.481" x="93.468" id="SVGID_32_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_33_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_103" xlink:href="#SVGID_32_"/>
+     </clipPath>
+     <path stroke="null" id="svg_104" d="m8.216871,94.721497l0,41.52298l33.353991,-33.429848l0,-8.093132l-33.353991,0zm0,52.971909l33.353991,-33.429863l0,-7.125847l-33.353991,33.429855l0,7.125854z" fill="#FFFFFF" clip-path="url(#SVGID_33_)"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_105" opacity="0.29">
+    <g stroke="null" id="svg_106">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="29.408" width="18.559" y="48.239" x="116.708" id="SVGID_34_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_35_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_107" xlink:href="#SVGID_34_"/>
+     </clipPath>
+     <path stroke="null" id="svg_108" d="m49.983494,87.080475l0,41.52301l33.354,-33.429878l0,-8.093132l-33.354,0zm0,52.971909l33.354,-33.429848l0,-7.125854l-33.354,33.429863l0,7.125839z" fill="#FFFFFF" clip-path="url(#SVGID_35_)"/>
+    </g>
+   </g>
+   <rect stroke="null" id="svg_109" height="70.900028" width="12.411374" fill="#EAE9C9" y="97.482849" x="37.572121"/>
+   <rect stroke="null" id="svg_110" height="70.900028" width="12.411374" fill="#EAE9C9" y="97.48465" x="84.077931"/>
+   <rect stroke="null" id="svg_111" height="70.900028" width="12.411374" fill="#EAE9C9" y="97.482849" x="130.583742"/>
+   <rect stroke="null" id="svg_112" height="70.900028" width="12.411374" fill="#EAE9C9" y="97.48465" x="177.089552"/>
+   <rect stroke="null" id="svg_113" height="70.900028" width="12.409577" fill="#EAE9C9" y="97.482849" x="223.602551"/>
+   <rect stroke="null" id="svg_114" height="70.900028" width="12.409577" fill="#EAE9C9" y="97.48465" x="270.108361"/>
+   <rect stroke="null" id="svg_115" height="70.900028" width="12.411374" fill="#EAE9C9" y="97.48465" x="316.605186"/>
+   <rect stroke="null" id="svg_116" height="65.584462" width="2.65804" fill="#61737B" y="102.798414" x="37.572121"/>
+   <rect stroke="null" id="svg_117" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="47.327252"/>
+   <rect stroke="null" id="svg_118" height="65.584462" width="2.65804" fill="#61737B" y="102.798414" x="84.077931"/>
+   <rect stroke="null" id="svg_119" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="93.833063"/>
+   <rect stroke="null" id="svg_120" height="65.584462" width="2.65804" fill="#61737B" y="102.798414" x="130.583742"/>
+   <rect stroke="null" id="svg_121" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="140.338873"/>
+   <rect stroke="null" id="svg_122" height="65.584462" width="2.65804" fill="#61737B" y="102.798414" x="177.089552"/>
+   <rect stroke="null" id="svg_123" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="186.844683"/>
+   <rect stroke="null" id="svg_124" height="65.584462" width="2.656243" fill="#61737B" y="102.798414" x="223.602551"/>
+   <rect stroke="null" id="svg_125" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="233.35948"/>
+   <rect stroke="null" id="svg_126" height="65.584462" width="2.656243" fill="#61737B" y="102.798414" x="270.108361"/>
+   <rect stroke="null" id="svg_127" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="279.86529"/>
+   <rect stroke="null" id="svg_128" height="65.584462" width="2.65804" fill="#61737B" y="102.798414" x="316.605186"/>
+   <rect stroke="null" id="svg_129" height="65.584462" width="2.656243" fill="#CBCBAF" y="102.798414" x="326.362114"/>
+   <rect stroke="null" id="svg_130" height="5.418238" width="350.519776" fill="#89877B" y="97.42881" x="8.193504"/>
+   <rect stroke="null" id="svg_131" height="5.418238" width="350.519776" fill="#89877B" y="53.216489" x="8.193504"/>
+   <rect stroke="null" id="svg_132" height="5.418238" width="350.519776" fill="#DCD9BD" y="92.014174" x="8.193504"/>
+   <rect stroke="null" id="svg_133" height="5.418238" width="350.519776" fill="#33404C" y="92.014174" x="8.193504"/>
+   <rect stroke="null" id="svg_134" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="0.33081"/>
+   <rect stroke="null" id="svg_135" height="27.923382" width="5.298108" fill="#B1B097" y="64.088991" x="41.538513"/>
+   <rect stroke="null" id="svg_136" height="5.310162" width="27.859994" fill="#33404C" y="34.787633" x="41.536716"/>
+   <rect stroke="null" id="svg_137" height="5.418238" width="367.436698" fill="#EAE9C9" y="58.634727" x="0.329013"/>
+   <rect stroke="null" id="svg_138" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="46.83662"/>
+   <rect stroke="null" id="svg_139" height="13.118694" width="51.498396" fill="#DCDDBB" y="40.097795" x="41.538513"/>
+   <rect stroke="null" id="svg_140" height="5.310162" width="27.859994" fill="#33404C" y="34.787633" x="107.489887"/>
+   <rect stroke="null" id="svg_141" height="13.118694" width="51.498396" fill="#DCDDBB" y="40.097795" x="107.489887"/>
+   <rect stroke="null" id="svg_142" height="27.923382" width="5.298108" fill="#B1B097" y="64.088991" x="88.044323"/>
+   <rect stroke="null" id="svg_143" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="93.342431"/>
+   <rect stroke="null" id="svg_144" height="27.957606" width="41.207703" fill="#DCDDBB" y="64.054767" x="139.846444"/>
+   <rect stroke="null" id="svg_145" height="27.957606" width="41.207703" fill="#DCDDBB" y="64.054767" x="186.352254"/>
+   <rect stroke="null" id="svg_146" height="27.957606" width="5.298108" fill="#B1B097" y="64.054767" x="227.561754"/>
+   <rect stroke="null" id="svg_147" height="27.957606" width="5.298108" fill="#B1B097" y="64.054767" x="134.550133"/>
+   <rect stroke="null" id="svg_148" height="27.957606" width="5.314282" fill="#B1B097" y="64.054767" x="181.046958"/>
+   <rect stroke="null" id="svg_149" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="232.858064"/>
+   <rect stroke="null" id="svg_150" height="27.923382" width="5.29631" fill="#B1B097" y="64.088991" x="320.573375"/>
+   <rect stroke="null" id="svg_151" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="279.363875"/>
+   <rect stroke="null" id="svg_152" height="27.923382" width="41.207703" fill="#DCDDBB" y="64.088991" x="325.869685"/>
+   <rect stroke="null" id="svg_153" height="27.923382" width="5.298108" fill="#B1B097" y="64.088991" x="274.067564"/>
+   <rect stroke="null" id="svg_154" height="41.301459" width="5.298108" fill="#B1B097" y="173.801115" x="48.020967"/>
+   <rect stroke="null" id="svg_155" height="41.301459" width="5.29631" fill="#B1B097" y="173.801115" x="312.798743"/>
+   <rect stroke="null" id="svg_156" height="38.37979" width="63.988846" fill="#EDEDED" y="233.423354" x="61.535814"/>
+   <rect stroke="null" id="svg_157" height="41.301459" width="364.902664" fill="#DCDDBB" y="173.801115" x="2.172927"/>
+   <polygon stroke="null" id="svg_158" points="211.5146484375,226.13719525759 211.5146484375,333.2230413432116 219.5373077392578,338.2468180413925 227.56173706054688,338.2468180413925 227.56173706054688,226.13719525759 " fill="#464355"/>
+   <g stroke="null" id="svg_159" opacity="0.1">
+    <g stroke="null" id="svg_160">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="6.66" width="51.753" y="125.301" x="163.763" id="SVGID_36_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_37_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_161" xlink:href="#SVGID_36_"/>
+     </clipPath>
+     <polygon stroke="null" id="svg_162" points="227.56173706054688,225.89221833211917 134.5501251220703,225.89221833211917 144.59280395507812,237.88872202127453 227.56173706054688,237.88872202127453 " clip-path="url(#SVGID_37_)"/>
+    </g>
+   </g>
+   <path stroke="null" id="svg_163" d="m61.940174,234.32399l62.191685,0l0,36.578476l-62.191685,0l0,-36.578476zm-1.797188,38.379776l65.78606,0l0,-40.181076l-65.78606,0l0,40.181076z" fill="#333333"/>
+   <path stroke="null" id="svg_164" d="m69.310448,243.099792c0,-1.540085 0.762009,-2.534393 2.298599,-2.534393c1.552765,0 2.314796,0.994308 2.314796,2.534393l0,5.214691c0,1.527496 -0.762032,2.534393 -2.314796,2.534393c-1.536591,0 -2.298599,-1.008698 -2.298599,-2.534393l0,-5.214691zm1.107079,5.270554c0,0.922272 0.388191,1.457245 1.191521,1.457245c0.819534,0 1.193336,-0.534973 1.193336,-1.457245l0,-5.328156c0,-0.906052 -0.373802,-1.455429 -1.193336,-1.455429c-0.803329,0 -1.191521,0.549377 -1.191521,1.455429l0,5.328156z"/>
+   <path stroke="null" id="svg_165" d="m79.430412,243.099792l0,0.907837l-1.062141,0l0,-0.965469c0,-0.906021 -0.359428,-1.455429 -1.178963,-1.455429c-0.803329,0 -1.177155,0.549408 -1.177155,1.455429l0,5.328186c0,0.907837 0.373825,1.457214 1.177155,1.457214c0.819534,0 1.178963,-0.549377 1.178963,-1.457214l0,-1.309525l1.062141,0l0,1.251846c0,1.527512 -0.717079,2.534439 -2.269844,2.534439c-1.536591,0 -2.257263,-1.008759 -2.257263,-2.534439l0,-5.214645c0,-1.527512 0.718864,-2.534409 2.257263,-2.534409c1.550957,0.001785 2.269844,1.010498 2.269844,2.536179z"/>
+   <path stroke="null" id="svg_166" d="m81.574448,246.210587l0,4.53923l-1.121429,0l0,-10.083542l1.121429,0l0,4.539215l2.47113,0l0,-4.539215l1.12146,0l0,10.083542l-1.12146,0l0,-4.53923l-2.47113,0z"/>
+   <path stroke="null" id="svg_167" d="m86.232773,243.099792c0,-1.540085 0.762032,-2.534393 2.298615,-2.534393c1.552765,0 2.314766,0.994308 2.314766,2.534393l0,5.214691c0,1.527496 -0.762001,2.534393 -2.314766,2.534393c-1.536583,0 -2.298615,-1.008698 -2.298615,-2.534393l0,-5.214691zm1.107063,5.270554c0,0.922272 0.388199,1.457245 1.191528,1.457245c0.819534,0 1.193329,-0.534973 1.193329,-1.457245l0,-5.328156c0,-0.906052 -0.373795,-1.455429 -1.193329,-1.455429c-0.803329,0 -1.191528,0.549377 -1.191528,1.455429l0,5.328156z"/>
+   <path stroke="null" id="svg_168" d="m94.169151,240.666275c1.565353,0 2.183578,0.749329 2.183578,2.233582l0,0.47554c0,1.06636 -0.300117,1.727417 -1.177155,2.001221c0.977676,0.271988 1.351479,1.05014 1.351479,2.159698l0,0.850235c0,1.511261 -0.733231,2.363266 -2.298584,2.363266l-2.312988,0l0,-10.083542l2.25367,0zm-0.273186,4.27803c0.891411,0 1.351486,-0.288208 1.351486,-1.340149l0,-0.58902c0,-0.893433 -0.301926,-1.323929 -1.105255,-1.323929l-1.107086,0l0,3.254913l0.860855,0l0,-0.001816zm0.330696,4.780594c0.817719,0 1.191521,-0.432312 1.191521,-1.368973l0,-0.891647c0,-1.123978 -0.445702,-1.498657 -1.407204,-1.498657l-0.977654,0l0,3.759277l1.193336,0z"/>
+   <path stroke="null" id="svg_169" d="m98.683678,248.717972l-0.388199,2.031845l-1.033379,0l1.924782,-10.083542l1.622864,0l1.924782,10.083542l-1.119644,0l-0.389984,-2.031845l-2.541222,0zm0.143776,-0.965485l2.241081,0l-1.134018,-5.816299l-1.107063,5.816299z"/>
+   <path stroke="null" id="svg_170" d="m104.736595,246.210587l0,4.53923l-1.119652,0l0,-10.083542l1.119652,0l0,4.539215l2.47113,0l0,-4.539215l1.12146,0l0,10.083542l-1.12146,0l0,-4.53923l-2.47113,0z"/>
+   <path stroke="null" id="svg_171" d="m113.966949,240.666275c1.565361,0 2.183586,0.749329 2.183586,2.233582l0,0.47554c0,1.06636 -0.300117,1.727417 -1.177155,2.001221c0.977676,0.271988 1.351479,1.05014 1.351479,2.159698l0,0.850235c0,1.511261 -0.733231,2.363266 -2.298592,2.363266l-2.312988,0l0,-10.083542l2.25367,0zm-0.274971,4.27803c0.891411,0 1.351494,-0.288208 1.351494,-1.340149l0,-0.58902c0,-0.893433 -0.301933,-1.323929 -1.105263,-1.323929l-1.107086,0l0,3.254913l0.860855,0l0,-0.001816zm0.332481,4.780594c0.817726,0 1.191559,-0.432312 1.191559,-1.368973l0,-0.891647c0,-1.123978 -0.445709,-1.498657 -1.407219,-1.498657l-0.977676,0l0,3.759277l1.193336,0z"/>
+   <path stroke="null" id="svg_172" d="m71.711502,256.402252c-0.503212,0 -0.819534,0.271973 -0.819534,0.992493l0,1.08075l-1.495247,0l0,-0.978088c0,-1.613907 0.805138,-2.534363 2.357918,-2.534363c1.552765,0 2.357903,0.922226 2.357903,2.534363c0,3.168457 -3.146889,4.348297 -3.146889,6.005463c0,0.072052 0,0.144104 0.014397,0.216156l2.988708,0l0,1.44101l-4.570244,0l0,-1.239258c0,-2.966705 3.132492,-3.458466 3.132492,-6.367493c-0.001785,-0.907867 -0.318108,-1.151031 -0.819504,-1.151031z"/>
+   <path stroke="null" id="svg_173" d="m74.960808,257.497406c0,-1.613907 0.848274,-2.534363 2.399231,-2.534363s2.399261,0.922226 2.399261,2.534363l0,5.24173c0,1.613922 -0.848274,2.534393 -2.399261,2.534393s-2.399231,-0.922241 -2.399231,-2.534393l0,-5.24173zm1.579727,5.34259c0,0.716888 0.318108,0.992523 0.819504,0.992523c0.503212,0 0.819534,-0.273834 0.819534,-0.992523l0,-5.445251c0,-0.718719 -0.316322,-0.992493 -0.819534,-0.992493c-0.501396,0 -0.819504,0.271973 -0.819504,0.992493l0,5.445251z"/>
+   <path stroke="null" id="svg_174" d="m80.654297,257.497406c0,-1.613907 0.848274,-2.534363 2.399231,-2.534363s2.399254,0.922226 2.399254,2.534363l0,5.24173c0,1.613922 -0.848267,2.534393 -2.399254,2.534393s-2.399231,-0.922241 -2.399231,-2.534393l0,-5.24173zm1.579727,5.34259c0,0.716888 0.3181,0.992523 0.819504,0.992523c0.503235,0 0.819534,-0.273834 0.819534,-0.992523l0,-5.445251c0,-0.718719 -0.316299,-0.992493 -0.819534,-0.992493c-0.501404,0 -0.819504,0.271973 -0.819504,0.992493l0,5.445251z"/>
+   <path stroke="null" id="svg_175" d="m88.747017,265.273499c-1.595901,0 -2.47113,-0.922272 -2.47113,-2.534393l0,-0.790771c0,-0.965485 0.287552,-1.713013 0.977654,-2.103882c-0.661362,-0.358429 -0.977654,-1.035736 -0.977654,-2.03006l0,-0.317017c0,-1.613907 0.875229,-2.534363 2.47113,-2.534363s2.47113,0.922226 2.47113,2.534363l0,0.317017c0,0.994324 -0.330696,1.671631 -0.975868,2.03006c0.690125,0.390869 0.975868,1.138397 0.975868,2.103882l0,0.790771c0,1.612152 -0.875229,2.534393 -2.47113,2.534393zm-0.89138,-7.158264c0,0.805145 0.373825,1.066345 0.891403,1.066345c0.503212,0 0.891411,-0.2612 0.891411,-1.066345l0,-0.563812c0,-0.907837 -0.388199,-1.151001 -0.891411,-1.151001c-0.501396,0 -0.891403,0.243164 -0.891403,1.151001l0,0.563812zm0.89138,5.717285c0.503212,0 0.877007,-0.244995 0.891411,-1.136597l0,-0.938477c0,-0.790741 -0.332481,-1.138397 -0.891411,-1.138397s-0.891411,0.345825 -0.891411,1.138397l0,0.938477c0.000031,0.891602 0.390007,1.136597 0.891411,1.136597z"/>
+   <path stroke="null" id="svg_176" d="m95.520638,256.09964l0,9.058594l-1.105255,0l0,-10.083527l4.007721,0l0,1.023132l-2.902466,0l0,0.001801z"/>
+   <path stroke="null" id="svg_177" d="m99.431305,257.51001c0,-1.540085 0.762001,-2.534378 2.298615,-2.534378c1.552765,0 2.314766,0.994293 2.314766,2.534378l0,5.214691c0,1.527496 -0.762001,2.534393 -2.314766,2.534393c-1.536613,0 -2.298615,-1.008698 -2.298615,-2.534393l0,-5.214691zm1.107063,5.270569c0,0.922241 0.388199,1.457214 1.191551,1.457214c0.819504,0 1.193306,-0.534973 1.193306,-1.457214l0,-5.328186c0,-0.906036 -0.373802,-1.455414 -1.193306,-1.455414c-0.803352,0 -1.191551,0.549377 -1.191551,1.455414l0,5.328186z"/>
+   <path stroke="null" id="svg_178" d="m110.068871,266.541595l0,-1.383362l-4.108368,0l0,1.383362l-1.080101,0l0,-2.377686l0.646988,0c0.343254,-0.387268 0.415154,-0.848358 0.445702,-1.466217l0.388176,-7.61937l4.036484,0l0,9.087418l0.762024,0l0,2.377686l-1.090904,0l0,-0.001831zm-3.003113,-3.860107c-0.043137,0.718689 -0.143776,1.152802 -0.460075,1.482422l2.65802,0l0,-8.06427l-1.869064,0l-0.32888,6.581848z"/>
+   <path stroke="null" id="svg_179" d="m115.160294,262.939056c-0.345062,1.513062 -0.86087,2.320038 -2.68679,2.233582l0,-1.010498c0.860832,0.043243 1.249023,-0.22876 1.437752,-0.992523l0.230026,-0.662872l-2.314774,-7.432037l1.121437,0l1.019005,3.499847l0.690125,2.534393l0.589493,-2.534393l0.905777,-3.499847l1.162788,0l-2.154839,7.864349z"/>
+   <rect stroke="#E2E2E2" id="svg_180" height="41.02046" width="155.348852" stroke-miterlimit="10" stroke-width="1.5" fill="#FFFFFF" y="1.076751" x="178.417673"/>
+   <g stroke="null" id="svg_181" opacity="0.1">
+    <g stroke="null" id="svg_182">
+     <defs stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) ">
+      <rect stroke="null" height="9.345" width="72.757" y="7.922" x="196.267" id="SVGID_5_"/>
+     </defs>
+     <clipPath stroke="null" transform="translate(0.5000054836273193,-10.500115394592285) translate(-1.0000109672546387,11.000121116638184) translate(0.5000054836273193,-5.000054836273193) translate(0,4.33344030380249) translate(0,-3.9996490478515625) translate(-4.7499871253967285,-3.2499911785125732) translate(-84,8) translate(0.3290129005908966,1.2433598041534424) scale(1.797187089920044,1.798604965209961) translate(-0.3290129005908966,-1.2433598041534424) translate(0.18307103216648102,0.5986589789390564) scale(1,1.0014851093292236) translate(-0.18307103216648102,-0.5986589789390564) " id="SVGID_38_">
+      <use stroke="null" x="-88.749987" y="0.583751" id="svg_183" xlink:href="#SVGID_5_"/>
+     </clipPath>
+     <rect stroke="null" id="svg_184" height="1.592328" width="130.759738" clip-path="url(#SVGID_38_)" y="14.458431" x="192.964105"/>
+     <rect stroke="null" id="svg_185" height="1.592328" width="130.759738" clip-path="url(#SVGID_38_)" y="22.07963" x="192.964105"/>
+     <rect stroke="null" id="svg_186" height="1.592328" width="130.759738" clip-path="url(#SVGID_38_)" y="29.699028" x="192.964105"/>
+    </g>
+   </g>
+   <rect stroke="null" height="15.035252" width="136.812664" fill="none" y="27.06196" x="195.145891" id="SVGID_7_"/>
+   <polygon stroke="null" id="svg_187" points="331.9549865722656,42.097214116483826 331.956787109375,42.097214116483826 319.37103271484375,27.06195970510538 318.8948059082031,27.06195970510538 318.8948059082031,30.12953124208974 204.156982421875,30.12953124208974 204.156982421875,28.40030527858829 201.85476684570312,28.40030527858829 201.50074768066406,27.881542073972867 195.1458740234375,27.06195970510538 196.267333984375,28.40030527858829 196.26551818847656,28.40030527858829 208.85301208496094,43.43376029922541 333.076416015625,43.43376029922541 " opacity="0.1"/>
+   <rect stroke="null" height="15.035252" width="136.812664" fill="none" y="28.400308" x="196.265538" id="SVGID_1_"/>
+   <rect stroke="null" id="svg_188" height="11.097662" width="5.405939" fill="#6C6A62" y="42.097211" x="196.376964"/>
+   <rect stroke="null" id="svg_189" height="11.097662" width="5.405939" fill="#6C6A62" y="42.097211" x="310.467792"/>
+   <g stroke="null" id="svg_190">
+    <g stroke="null" id="svg_191">
+     <g stroke="null" id="svg_192">
+      <g stroke="null" id="svg_193">
+       <path stroke="null" id="svg_194" d="m217.777847,15.861627c0,0 0.055725,-0.643057 -0.097046,-0.976293c-0.176102,-0.381869 -0.562531,-0.682685 -0.562531,-0.682685l-9.663467,-5.776691c0,0 -0.440308,-0.261186 -0.866226,-0.266589c-0.400787,-0.007205 -1.013611,0.322429 -1.013611,0.322429l-9.383133,5.553333c0,0 -0.54454,0.32423 -0.801544,0.666475c-0.240829,0.318823 -0.194092,1.023122 -0.194092,1.023122l0.043137,10.261873c0,0 -0.012589,0.671875 0.147369,1.044739c0.163544,0.380068 0.526566,0.655663 0.526566,0.655663l9.622147,5.637999c0,0 0.760223,0.225159 1.137619,0.225159c0.337875,0 1.134018,-0.253983 1.134018,-0.253983l9.090164,-5.409229c0,0 0.639801,-0.275602 0.787186,-0.628649c0.161728,-0.396282 0.084457,-0.988897 0.084457,-0.988897l0.008987,-10.407775zm-3.752518,9.298186l-7.456528,4.305052l-7.451141,-4.305052l0,-8.613699l7.451141,-4.305055l7.456528,4.305055l0,8.613699z" fill="#EE4941" clip-rule="evenodd" fill-rule="evenodd"/>
+      </g>
+     </g>
+     <path stroke="null" id="svg_195" d="m206.570602,29.464865l0,0l-7.452942,-4.305052l0,-8.613699l7.451172,-4.305055l0.00177,0l0,-4.081691c-0.398972,0.001803 -0.995636,0.322429 -0.995636,0.322429l-9.383102,5.553333c0,0 -0.544571,0.32423 -0.801544,0.666475c-0.240829,0.318823 -0.194107,1.023122 -0.194107,1.023122l0.043137,10.261873c0,0 -0.012573,0.671875 0.147385,1.044739c0.163544,0.380068 0.526566,0.655663 0.526566,0.655663l9.622147,5.637999c0,0 0.641586,0.187332 1.035156,0.219753l0,-4.079889z" fill="#B32B2B" clip-rule="evenodd" fill-rule="evenodd"/>
+    </g>
+    <g stroke="null" id="svg_196">
+     <path stroke="null" id="svg_197" d="m233.140213,33.343014l-3.096558,0l0,-1.85532l-7.000031,0l0,1.85532l-3.098343,0l0,-4.647295l1.112427,0c0.602081,-0.781754 2.273453,-3.127014 2.273453,-5.719048l0,-4.108715l8.761276,0l0,9.829561l1.045975,0l0,4.645496l0.001801,0zm-6.685532,-10.387962c0,3.193663 -1.27243,5.047176 -1.829544,5.742466l4.347397,0l0,-7.03758l-2.517853,0l0,1.295115z" fill="#333333"/>
+     <path stroke="null" id="svg_198" d="m244.464279,30.125933l-3.098343,0l0,-6.208998l-3.766891,6.208998l-3.100159,0l0,-11.257977l3.100159,0l0,6.16577l3.766891,-6.16577l3.098343,0l0,11.257977z" fill="#333333"/>
+     <path stroke="null" id="svg_199" d="m255.941116,30.125933l-3.098343,0l0,-4.310453l-3.475769,0l0,4.310453l-3.100128,0l0,-11.257977l3.100128,0l0,4.155544l3.475769,0l0,-4.155544l3.098343,0l0,11.257977z" fill="#333333"/>
+     <path stroke="null" id="svg_200" d="m279.254242,30.125933l-21.731567,0l0,-15.636881l3.342773,0l0,12.776451l5.83905,0l0,-12.776451l3.342773,0l0,12.776451l5.882172,0l0,-12.776451l3.323029,0l0,15.636881l0.00177,0z" fill="#333333"/>
+     <path stroke="null" id="svg_201" d="m290.465118,23.715193l0,6.41074l-2.451355,0l-0.177917,-0.981695c-1.249054,0.736717 -2.474731,1.161821 -3.565613,1.161821c-2.097351,0 -3.657288,-1.318537 -3.657288,-3.26211c0,-4.198776 4.370758,-4.110514 6.755615,-4.110514c-0.132996,-1.406796 -0.981262,-1.85351 -2.050598,-1.85351c-0.781769,0 -1.604858,0.335035 -2.029022,1.05014l-2.072144,-1.05014c0.535553,-1.406797 2.451355,-2.390299 4.367188,-2.390299c2.384827,0 4.881134,1.45183 4.881134,5.025566zm-3.055237,2.570415l-0.023376,-1.475245l-0.645203,0c-1.180756,0 -3.030029,0.090065 -3.030029,1.741837c0,1.006908 0.756592,1.563507 1.714508,1.563507c0.981262,-0.001802 1.9841,-0.580008 1.9841,-1.830099z" fill="#333333"/>
+     <path stroke="null" id="svg_202" d="m294.943695,21.638321l0,8.487612l-3.118134,0l0,-11.257977l8.15744,0l0,2.770365l-5.039307,0z" fill="#333333"/>
+     <path stroke="null" id="svg_203" d="m301.970734,28.567829c0.258759,0 0.472656,0.084658 0.645203,0.252178c0.172485,0.167515 0.260559,0.380068 0.260559,0.63765c0,0.244976 -0.088074,0.45212 -0.260559,0.621441c-0.174377,0.167521 -0.388214,0.250376 -0.645203,0.250376c-0.244476,0 -0.451111,-0.082855 -0.625427,-0.250376c-0.174347,-0.169321 -0.26062,-0.374668 -0.26062,-0.621441c0,-0.257582 0.086273,-0.470135 0.26062,-0.63765s0.380951,-0.252178 0.625427,-0.252178z" fill="#666666"/>
+     <path stroke="null" id="svg_204" d="m308.426178,21.481606c0.702698,0 1.304718,0.145908 1.811554,0.435909c0.508575,0.288206 0.918335,0.702497 1.229279,1.239279c0.203064,0.347649 0.334259,0.720516 0.393616,1.123999c0.062836,0.401686 0.095215,0.830387 0.095215,1.289713l0,1.073561c0,0.52597 -0.073669,1.012316 -0.219238,1.464436s-0.359436,0.842999 -0.643372,1.17263c-0.285797,0.331432 -0.63623,0.587217 -1.053162,0.770948c-0.415192,0.183729 -0.89859,0.277393 -1.446777,0.277393c-0.30011,0 -0.584045,-0.046829 -0.853607,-0.142302s-0.506836,-0.205339 -0.724304,-0.327829c-0.215668,-0.122488 -0.402557,-0.243172 -0.555328,-0.369263c-0.147369,-0.122486 -0.258789,-0.217953 -0.325287,-0.284603l0,4.171759l-1.437775,0l0,-9.617012c0,-0.590822 -0.127563,-1.14381 -0.384583,-1.658978l1.320923,-0.61964c0.088074,0.156715 0.165344,0.311626 0.233643,0.468338c0.066528,0.156708 0.122192,0.32963 0.168915,0.520565l0.098877,0c0.258789,-0.279198 0.584076,-0.513359 0.988434,-0.702497c0.399017,-0.192734 0.832123,-0.286406 1.302979,-0.286406zm-0.034119,1.239281c-0.537384,0 -0.990234,0.102671 -1.364075,0.30982c-0.372009,0.205343 -0.672119,0.43771 -0.894958,0.693491l0,4.036654c0.434875,0.480946 0.873413,0.823187 1.310089,1.02313c0.442108,0.199942 0.82312,0.30261 1.146606,0.30261c0.366638,0 0.67395,-0.064846 0.920197,-0.192734c0.246216,-0.127892 0.442139,-0.302614 0.593048,-0.527775c0.151001,-0.223354 0.25882,-0.484541 0.319916,-0.779951c0.059296,-0.29541 0.089844,-0.61784 0.089844,-0.96368l0,-1.053747c0,-0.335043 -0.023346,-0.655664 -0.073639,-0.96368c-0.050354,-0.306221 -0.120453,-0.549393 -0.208466,-0.727715c-0.156372,-0.345852 -0.411591,-0.626846 -0.771027,-0.837601c-0.354034,-0.212547 -0.713501,-0.318823 -1.067535,-0.318823z" fill="#666666"/>
+     <path stroke="null" id="svg_205" d="m317.767944,31.919998c-0.19046,0.489948 -0.442108,0.889839 -0.762024,1.197857c-0.316284,0.306217 -0.709869,0.459324 -1.175323,0.459324c-0.158203,0 -0.323486,-0.014412 -0.492432,-0.041428c-0.174347,-0.028824 -0.388184,-0.081062 -0.641632,-0.158516l0,-1.05555l0.702728,0c0.255219,0 0.472687,-0.037827 0.648773,-0.109879c0.179749,-0.073853 0.312744,-0.237766 0.402588,-0.493547l0.566101,-1.640965c-0.321716,-0.079258 -0.59848,-0.228764 -0.824921,-0.452122c-0.22821,-0.223356 -0.407959,-0.491745 -0.528351,-0.805166l-2.641846,-6.936718l1.389191,-0.401684l2.604126,6.835848c0.044922,0.111677 0.098816,0.199938 0.159973,0.268383c0.061096,0.06665 0.152771,0.100874 0.276764,0.100874l0.066467,0l2.587952,-7.205105l1.387451,0.401684l-3.725586,10.036709z" fill="#666666"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

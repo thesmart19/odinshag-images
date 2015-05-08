@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="16px" viewBox="0 0 13 16" enable-background="new 0 0 13 16" xml:space="preserve">
+
+<style>
+.arrow
+{
+	fill: #fff;
+	filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=1, Color='#777')";
+	filter: url(#drop-shadow);
+	-webkit-filter: drop-shadow(0px 1px 0px 0px #777);
+	filter: drop-shadow(0px 1px 0px 0px #777);
+}
+</style>
+
+<path class="arrow" fill="#fff" d="M5.195,4.932C4.704,5.423,4.248,5.88,3.791,6.337C3.345,6.783,2.903,7.233,2.452,7.674
+	C2.018,8.098,1.391,8.204,0.85,7.958C0.313,7.714-0.024,7.173,0.001,6.585c0.018-0.403,0.19-0.734,0.475-1.019
+	c1.363-1.358,2.722-2.719,4.082-4.079C4.902,1.143,5.245,0.798,5.59,0.456C6.197-0.147,7.073-0.155,7.68,0.45
+	c1.722,1.716,3.441,3.435,5.157,5.157c0.59,0.592,0.587,1.497,0.005,2.068c-0.574,0.564-1.466,0.549-2.057-0.04
+	c-0.852-0.849-1.701-1.7-2.551-2.55C8.195,5.045,8.153,5.006,8.083,4.94c0,0.093,0,0.154,0,0.215c0,2.613,0.001,5.225,0,7.838
+	c0,0.639-0.411,1.199-1.005,1.377c-0.631,0.19-1.287-0.041-1.647-0.582c-0.168-0.252-0.237-0.532-0.237-0.834
+	c0.002-2.602,0.001-5.204,0.001-7.807C5.195,5.09,5.195,5.033,5.195,4.932z"/>
+	
+<filter id="drop-shadow">
+	<feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
+	<feOffset dx="0" dy="1" result="offsetblur"/>
+	<feFlood flood-color="#777"/>
+	<feComposite in2="offsetblur" operator="in"/>
+	<feMerge>
+		<feMergeNode/>
+		<feMergeNode in="SourceGraphic"/>
+	</feMerge>
+</filter>
+
+</svg>
