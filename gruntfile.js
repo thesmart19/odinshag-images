@@ -64,6 +64,11 @@ module.exports = function (grunt) {
                 options: {
                 }
             }
+        },
+        imageEmbed: {
+            dist: {
+                src: [ "css/styles.css" ],
+            }
         }
     });
     // Load the plugins
